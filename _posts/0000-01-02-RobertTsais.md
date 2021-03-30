@@ -1,0 +1,4 @@
+---
+mycontent
+---
+bye
