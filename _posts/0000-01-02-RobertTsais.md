@@ -1,0 +1,6 @@
+---
+mycontent
+---
+bye
+
+sandy beach
